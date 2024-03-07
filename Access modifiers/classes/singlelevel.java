@@ -10,3 +10,4 @@ class child extends parent{
 	  p1.m1();
    }
 }
+// singlelevel inheritance
